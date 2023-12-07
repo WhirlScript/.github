@@ -1,6 +1,7 @@
 # WhirlScript
 
-> ⚠️ This organization has not been officially launched yet! It is not recommended to work about it before WhirlScript is fully published.
+> [!WARNING]
+> This organization has not been officially launched yet! It is not recommended to work about it before WhirlScript is fully published.
 
 WhirlScript is a language that compiles to bat and sh scripts.
 
