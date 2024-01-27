@@ -9,6 +9,6 @@ Ping @Bluemangoo if you have any questions😊.
 
 # Repos
 
-- [WhirlScript](https://github.com/Bluemangoo/WhirlScript): The compiler, private yet.
-- [Whirlpool](https://github.com/WhirlScript/Whirlpool): The package manager, whose development is not started yet
-- [Whirlpool-index](https://github.com/WhirlScript/Whirlpool-index): The package index, maintaining by @serverbread
+- [WhirlScript](https://github.com/WhirlScript/WhirlScript): The compiler, private yet.
+- [WhirlPKG](https://github.com/WhirlScript/WhirlPKG): The package manager, whose development is not started yet
+- [WhirlPKG-index](https://github.com/WhirlScript/WhirlPKG-index): The package index, maintaining by @serverbread
